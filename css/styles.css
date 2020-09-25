@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #aeb8ac;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #75726d;
     border-radius: 0;
     border: 0;
 }
@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: #111110;
 }
 
 .navbar-collapse {
@@ -45,7 +45,7 @@ body {
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #c9c7c3;
 }
 
 #nav-list a {
@@ -57,7 +57,7 @@ body {
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #fce29e;
+    background-color: #94928d;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
